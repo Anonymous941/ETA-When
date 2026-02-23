@@ -18,6 +18,7 @@ It's ready when it's ready...
 - [ ] Super cool feature 3: Sakura Bakushin O
 - [ ] Super cool feature 4: Two Brothers (may get cut)
 - [ ] Super cool feature 5: Transmutation (may get cut)
+- [ ] Super cool feature 6: Zener Protocol (may get cut)
 
 ### Softmod Installer
 - [x] Install flow
