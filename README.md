@@ -9,15 +9,15 @@ It's ready when it's ready...
 
 ### Mainline features
 - [ ] Finish kernel/xam patches
-- [ ] Safe-boot mode
+- [X] Safe-boot mode
 - [ ] Config editor
 
 ### Super cool features
 - [ ] Super cool feature 1: Morning Glory
-- [ ] Super cool feature 2: Mariana Trench
+- [ ] ~~Super cool feature 2: Mariana Trench~~ (moved to v2)
 - [X] Super cool feature 3: Sakura Bakushin O
 - [X] Super cool feature 4: Two Brothers (may get cut)
-- [ ] Super cool feature 5: Transmutation (may get cut)
+- [ ] ~~Super cool feature 5: Transmutation~~ (moved to v2)
 - [ ] Super cool feature 6: Zener Protocol (may get cut)
 
 ### Softmod Installer
