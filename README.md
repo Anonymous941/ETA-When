@@ -8,7 +8,7 @@ It's ready when it's ready...
 - [x] Stage 4
 
 ### Mainline features
-- [ ] Finish kernel/xam patches
+- [X] Finish kernel/xam patches
 - [X] Safe-boot mode
 - [ ] Config editor
 
