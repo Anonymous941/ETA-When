@@ -10,7 +10,7 @@ It's ready when it's ready...
 ### Mainline features
 - [X] Finish kernel/xam patches
 - [X] Safe-boot mode
-- [ ] Config editor
+- [X] Config editor
 
 ### Super cool features
 - [X] Super cool feature 1: Morning Glory
