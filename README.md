@@ -23,7 +23,7 @@ It's ready when it's ready...
 ### Softmod Installer
 - [x] Install flow
 - [x] Recovery flow
-- [ ] Uninstall flow
+- [x] Uninstall flow
 - [ ] Finalization
 
 ### Testing
