@@ -27,10 +27,10 @@ It's ready when it's ready...
 - [ ] Finalization
 
 ### Testing
-- [ ] Xenon
+- [x] Xenon
 - [ ] Zephyr
 - [ ] Falcon
 - [x] Jasper
 - [ ] Trinity
-- [ ] Corona
-- [ ] Winchester
+- [ ] ~~Corona~~ (incompatible)
+- [ ] ~~Winchester~~ (incompatible)
