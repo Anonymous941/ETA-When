@@ -31,6 +31,6 @@ It's ready when it's ready...
 - [ ] Zephyr
 - [ ] Falcon
 - [x] Jasper
-- [ ] Trinity
+- [x] Trinity
 - [ ] ~~Corona~~ (incompatible)
 - [ ] ~~Winchester~~ (incompatible)
