@@ -29,7 +29,7 @@ It's ready when it's ready...
 ### Testing
 - [x] Xenon
 - [ ] Zephyr
-- [ ] Falcon
+- [x] Falcon
 - [x] Jasper
 - [x] Trinity
 - [ ] ~~Corona~~ (incompatible)
