@@ -28,7 +28,7 @@ It's ready when it's ready...
 
 ### Testing
 - [x] Xenon
-- [ ] Zephyr
+- [x] Zephyr
 - [x] Falcon
 - [x] Jasper
 - [x] Trinity
