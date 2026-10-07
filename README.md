@@ -24,7 +24,7 @@ It's ready when it's ready...
 - [x] Install flow
 - [x] Recovery flow
 - [x] Uninstall flow
-- [ ] Finalization
+- [x] Finalization
 
 ### Testing
 - [x] Xenon
